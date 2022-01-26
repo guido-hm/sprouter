@@ -8,3 +8,7 @@ to start growing brocolli sprouts in jars, various batches at a time. This progr
 --------
 
 I plan on revisiting this project soon, with a much greater understanding of Object-Oriented Programming, to improve the code
+
+--------
+
+Requires openpyxl
